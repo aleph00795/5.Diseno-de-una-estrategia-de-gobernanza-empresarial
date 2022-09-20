@@ -145,3 +145,13 @@ En esta tarea, crearemos bloqueos de recursos.
 ![image](https://user-images.githubusercontent.com/110675810/191344051-1c6c9353-e161-4606-ade9-80f2dfe06efc.png)
 
 ![image](https://user-images.githubusercontent.com/110675810/191344161-6e7d56f5-8033-4914-912a-59924abfbb02.png)
+
+
+Contenidos
+Características y licencias de Azure AD Multi-Factor Authentication
+https://learn.microsoft.com/es-mx/azure/active-directory/authentication/concept-mfa-licensing
+
+Extras
+Examen de prueba - Kahoot!
+Examen del módulo 1
+https://kahoot.it/challenge/17c998c7-d2ca-4aad-8555-25d087dca7da_1662227486074
