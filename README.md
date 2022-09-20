@@ -1,5 +1,3 @@
-# Diseño de una estrategia de gobernanza empresarial
-
 https://learn.microsoft.com/es-mx/training/modules/enterprise-governance/1-introduction
 
 Exploración: realice estos ejercicios
